@@ -1,1 +1,9 @@
 0. reset commit
+
+1. feature1-1 + commit 1
+
+2. feature1-1 + commit 2
+
+3. hotfix1 + commit 1
+
+4. hotfix1 + commit 2
